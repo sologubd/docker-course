@@ -15,7 +15,7 @@
   `docker container logs *<container-name>*
   - Remove container  
   `docker container rm -f <container-id1> <container-id2>`
-    - **-f|--force  - force remove (if a container is being used)
+    - **-f|--force**  - force remove (if a container is being used)
 
 ### Image vs Container
   - An Image is the app we want to run
