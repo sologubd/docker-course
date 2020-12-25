@@ -1,4 +1,4 @@
-# Alpine test image with nginx
+# Ubuntu test image with nginx
 
 FROM ubuntu:18.04
 
